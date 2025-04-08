@@ -27,6 +27,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        namespace "com.example.video_thumbnail"
     }
     lintOptions {
         disable 'InvalidPackage'
