@@ -1,11 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     android:versionCode="1"
     android:versionName="1.0">
-    <!-- Eliminar el atributo 'package' -->
-    <application
-        android:name=".VideoThumbnailPlugin"
-        android:label="video_thumbnail"
-        android:icon="@mipmap/ic_launcher">
-        <!-- Otros elementos... -->
     </application>
 </manifest>
